@@ -1,80 +1,98 @@
-
-#topSection{
-    background-color:#232323;
+#topSection {
+  background-color: #232323;
 }
-.mainSection{
-  padding:100px;
+.mainSection {
+  padding: 100px;
 }
-.botton1{
+.botton1 {
   margin-right: 50px;
 }
-.doggystyle{
+.doggystyle {
   transform: rotate(15deg);
   padding-top: 200px;
 }
-#features{
-    background-color:#FFF3E2;
+#features {
+  background-color: #fff3e2;
 }
-.row{
+.row {
   padding: 100px;
   text-align: center;
 }
-.brandName{
+.brandName {
   font-size: 2.5rem;
-  position:relative;
+  position: relative;
   top: 25px;
 }
-.nav-link{
+.nav-link {
   font-size: 1.5rem;
 }
-.bottonPos{
+.bottonPos {
   padding-top: 200px;
-
 }
-.fas:hover{
+.fas:hover {
   color: gray;
   margin-bottom: 2rem;
-
 }
-.company{
+.company {
   text-align: center;
   color: white;
   padding-top: 50px;
 }
-#Company{
-  background-color:#232323;
+#Company {
+  background-color: #232323;
 }
-#pricing{
-
- text-align: center;
-      background-color:#FFF3E2;
+#pricing {
+  text-align: center;
+  background-color: #fff3e2;
   color: white;
   font-size: 2rem;
-
 }
-#contactMe{
+#contactMe {
   text-align: center;
-  background-color:#232323;
+  background-color: #232323;
   padding: 50px;
+}
+.icons {
+  padding: 20px 40px 20px 40px;
+  font-size: 3em;
+  color: red;
+}
+.priceing1 {
+  background-color: rgb(32, 48, 77);
+  color: rgb(83, 51, 51);
+  display: flex;
+  width: 100%;
+  padding: 1em;
+  margin-bottom: 3em;
+  border-radius: 1em;
+}
+.row2 {
+  display: flex;
+  position: relative;
+  margin-left: 6em;
+}
+.mast,
+.chih,
+.lbdr {
+  border-radius: 1em;
+  background-color: rgb(186, 86, 211);
+  height: 700px;
+  width: 30%;
 
+  margin-left: 5px;
 }
-.icons{
-padding: 20px 40px 20px 40px;
- font-size: 3em;
- color: red;">
+.button {
+  border-radius: 1em;
+  color: green;
 }
-.priceing1{
-  color: black;
+.icons:hover {
+  color: white;
 }
-.icons:hover{
-color:white;
-
-}
-.col-lg-4{
+.col-lg-4 {
   padding: 100px;
 }
-                                                          /* horizantal row style */
-    @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+/* horizantal row style */
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
 * {
   margin: 0;
