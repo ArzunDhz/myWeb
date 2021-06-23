@@ -66,9 +66,8 @@
   margin-bottom: 3em;
   border-radius: 1em;
 }
-.row2 {
-  display: flex;
-  position: relative;
+.row{
+
   margin-left: 6em;
 }
 .mast,
@@ -78,7 +77,6 @@
   background-color: rgb(186, 86, 211);
   height: 700px;
   width: 30%;
-
   margin-left: 5px;
 }
 .button {
