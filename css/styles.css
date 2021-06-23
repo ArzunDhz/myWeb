@@ -44,9 +44,60 @@ z-index: 1;
 
 
 }
+.company {
+  text-align: center;
+  color: white;
+  padding-top: 50px;
+}
+#Company {
+  background-color: #232323;
+}
+#pricing {
+  text-align: center;
+  background-color: #fff3e2;
+  color: white;
+  font-size: 2rem;
+}
+#contactMe {
+  text-align: center;
+  background-color: #232323;
+  padding: 50px;
+}
+.icons {
+  padding: 20px 40px 20px 40px;
+  font-size: 3em;
+  color: red;
+}
+.priceing1 {
+  background-color: rgb(32, 48, 77);
+  color: rgb(83, 51, 51);
+  display: flex;
+  width: 100%;
+  padding: 1em;
+  margin-bottom: 3em;
+  border-radius: 1em;
+}
+.row{
+
+  margin-left: 6em;
+}
+.mast,
+.chih,
+.lbdr {
+  border-radius: 1em;
+  background-color: rgb(186, 86, 211);
+  height: 700px;
+  width: 30%;
+  margin-left: 5px;
+}
+.button {
+  border-radius: 1em;
+  color: green;
+}
 .faspos{
   position: relative;
   top:200px;
+
 }
 
 
@@ -61,7 +112,17 @@ z-index: 1;
   text-align: center;
   padding-top: 7%;
 }
+#myFooter {
+  width: 100%;
+  height : 5em;
+  background-color: aqua;
+  
+}
+.footer-text {
+  position: center;
+  margin-left: 40%;
 
+}
 
 
 
