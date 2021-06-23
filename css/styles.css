@@ -50,10 +50,6 @@ z-index: 1;
 }
 
 
-
-
-
-
 .intro{
     padding: 3% 15%;
 }
@@ -76,12 +72,18 @@ height: 700px;
 .brandslogo{
   padding-top: 100px;
 }
+.fottericons{
+  padding: 20px;
 
+}
+.footericonsection{
+  text-align: center;
+}
 
+.fottericons:hover{
+  color: red;
 
-
-
-
+}
 
 
 
