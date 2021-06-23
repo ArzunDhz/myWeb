@@ -1,48 +1,44 @@
-
-#topSection{
-    background-color:#232323;
+#topSection {
+  background-color: #232323;
 }
-.mainSection{
-  padding:100px;
+.mainSection {
+  padding: 100px;
   position: relative;
 }
-#features{
-    background-color:#FFF3E2;
-    position: relative;
-    bottom: 400px;
-    z-index: 2;
+#features {
+  background-color: #fff3e2;
+  position: relative;
+  bottom: 400px;
+  z-index: 2;
 }
-.botton1{
+.botton1 {
   margin-right: 50px;
 }
-.doggystyle{
+.doggystyle {
   transform: rotate(15deg);
   padding-top: 20px;
   position: relative;
-z-index: 1;
+  z-index: 1;
 }
 
-.row{
+.row {
   padding: 100px;
   text-align: center;
 }
-.brandName{
+.brandName {
   font-size: 2.5rem;
-  position:relative;
+  position: relative;
   top: 25px;
 }
-.nav-link{
+.nav-link {
   font-size: 1.5rem;
 }
-.bottonPos{
+.bottonPos {
   padding-top: 200px;
-
 }
-.fas:hover{
+.fas:hover {
   color: gray;
   margin-bottom: 2rem;
-
-
 }
 .company {
   text-align: center;
@@ -77,8 +73,7 @@ z-index: 1;
   margin-bottom: 3em;
   border-radius: 1em;
 }
-.row{
-
+.row {
   margin-left: 6em;
 }
 .mast,
@@ -94,51 +89,28 @@ z-index: 1;
   border-radius: 1em;
   color: green;
 }
-.faspos{
+.faspos {
   position: relative;
-  top:200px;
-
+  top: 200px;
 }
-
-
-
-
-
-
-.carousel-item{
-    padding: 7% 15%;
+.carousel-item {
+  padding: 7% 15%;
 }
-.pricingHead{
+.pricingHead {
   text-align: center;
   padding-top: 7%;
 }
 #myFooter {
   width: 100%;
-  height : 5em;
+  height: 5em;
   background-color: aqua;
-  
 }
 .footer-text {
   position: center;
   margin-left: 40%;
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                                   /* dddddddddddddnnnnnnnnnnnnnnnnnnnnnnaaaaaaaaaaaaaaaaaa */
+.hero {
+  width: 100%;
+  height: 700px;
+  margin-bottom: 2em;
+}
