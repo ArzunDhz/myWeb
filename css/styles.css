@@ -1,116 +1,88 @@
-#topSection {
-  background-color: #232323;
+
+#topSection{
+    background-color:#232323;
 }
-.mainSection {
-  padding: 100px;
+.mainSection{
+  padding:100px;
   position: relative;
 }
-#features {
-  background-color: #fff3e2;
-  position: relative;
-  bottom: 400px;
-  z-index: 2;
+#features{
+    background-color:#FFF3E2;
+    position: relative;
+    bottom: 400px;
+    z-index: 2;
 }
-.botton1 {
+.botton1{
   margin-right: 50px;
 }
-.doggystyle {
+.doggystyle{
   transform: rotate(15deg);
   padding-top: 20px;
   position: relative;
-  z-index: 1;
+z-index: 1;
 }
 
-.row {
+.row{
   padding: 100px;
   text-align: center;
 }
-.brandName {
+.brandName{
   font-size: 2.5rem;
-  position: relative;
+  position:relative;
   top: 25px;
 }
-.nav-link {
+.nav-link{
   font-size: 1.5rem;
 }
-.bottonPos {
+.bottonPos{
   padding-top: 200px;
+
 }
-.fas:hover {
+.fas:hover{
   color: gray;
   margin-bottom: 2rem;
+
+
 }
-.company {
-  text-align: center;
-  color: white;
-  padding-top: 50px;
-}
-#Company {
-  background-color: #232323;
-}
-#pricing {
-  text-align: center;
-  background-color: #fff3e2;
-  color: white;
-  font-size: 2rem;
-}
-#contactMe {
-  text-align: center;
-  background-color: #232323;
-  padding: 50px;
-}
-.icons {
-  padding: 20px 40px 20px 40px;
-  font-size: 3em;
-  color: red;
-}
-.priceing1 {
-  background-color: rgb(32, 48, 77);
-  color: rgb(83, 51, 51);
-  display: flex;
-  width: 100%;
-  padding: 1em;
-  margin-bottom: 3em;
-  border-radius: 1em;
-}
-.row {
-  margin-left: 6em;
-}
-.mast,
-.chih,
-.lbdr {
-  border-radius: 1em;
-  background-color: rgb(186, 86, 211);
-  height: 700px;
-  width: 30%;
-  margin-left: 5px;
-}
-.button {
-  border-radius: 1em;
-  color: green;
-}
-.faspos {
+.faspos{
   position: relative;
-  top: 200px;
+  top:200px;
 }
-.carousel-item {
-  padding: 7% 15%;
+
+
+
+
+
+
+.intro{
+    padding: 3% 15%;
 }
-.pricingHead {
+.pricingHead{
   text-align: center;
   padding-top: 7%;
 }
-#myFooter {
-  width: 100%;
-  height: 5em;
-  background-color: aqua;
+
+.advertbox{
+  padding: 10%;
+
 }
-.footer-text {
-  position: center;
-  margin-left: 40%;
+.interview{
+width:100%;
+height: 700px;
 }
-.hero {
-  width: 100%;
-  height: 700px;
-  margin-bottom: 2em;
+
+
+
+.brandslogo{
+  padding-top: 100px;
 }
+
+
+
+
+
+
+
+
+
+                                                                   /* dddddddddddddnnnnnnnnnnnnnnnnnnnnnnaaaaaaaaaaaaaaaaaa */
